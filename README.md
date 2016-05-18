@@ -15,11 +15,22 @@ Creating an affordable digital modular solution is still something I'd very much
 
 ###References
 [1] Dirty Electronics: Instruments - http://www.dirtyelectronics.org/mutesynth2.html
-[2] Beyond DIY in Electronic Music - journals.cambridge.org/article_S1355771813000241
+
+[2] Beyond DIY in Electronic Music - http://www.journals.cambridge.org/article_S1355771813000241
+
 [3] Do Makers Propose a More Open Source Future? - https://www.youtube.com/watch?v=ct5fjHC7tL8
+
 [4] Mozzi - http://sensorium.github.io/Mozzi/
+
 [5] Audino Granular Synth - https://www.youtube.com/watch?v=NTob27lOpcU
+
 [6] The OWL - https://hoxtonowl.com
+
 [7] OWL Wiki - https://hoxtonowl.com/wiki/Main_Page
+
 [8] TeensyPi - http://www.teensypi.com
-[9] Udoo - http://www.udoo.org
+
+[9] libpd.cc - http://libpd.cc
+
+[10] Udoo - http://www.udoo.org
+
