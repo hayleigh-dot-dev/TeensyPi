@@ -16,6 +16,7 @@ to
 #blacklist snd-soc-wm8804
 ```
 - Save and close nano by pressing ```CTRL + X``` then ```y``` and finally ```enter```.
+
 ### Step 2
 - Open the modules file: ```sudo nano /etc/modules```
 - Comment out the following line:
@@ -58,6 +59,7 @@ to
 ### Step 1
 - Create the ```/bin``` folder: ```mkdir ./```
 - Enter the new folder: ```cd ./bin```
+
 ### Step 2
 - Create a new script called ```pd_startup```: ```sudo nano pd_startup```
 - Add the following line:
@@ -66,6 +68,7 @@ pd -nogui -midiindev 1 /path/to/your/patch &
 ```
 - Save and close nano by pressing ```CTRL + X``` then ```y``` and finally ```enter```.
 - Make the script executable: ```sudo chmod 755 pd_startup```
+
 ### Step 3
 - Open ```rc.local```: ```sudo nano /etc/rc.local```
 - Add the following line:
